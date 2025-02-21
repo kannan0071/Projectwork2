@@ -1,6 +1,6 @@
 ## Speech based sentiment analysis using deep learning approaches
 
-This project focuses on leveraging deep learning techniques for analyzing sentiments from speech data. It extracts meaningful features from audio inputs and classifies them into different sentiment categories, improving human-computer interaction in applications like virtual assistants, customer support, and mental health monitoring.
+The Speech-Based Sentiment Analysis System enhances human-computer interaction by enabling machines to understand and respond to emotions in spoken language.This project focuses on leveraging deep learning techniques for analyzing sentiments from speech data. 
 
 ## About
 
