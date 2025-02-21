@@ -33,45 +33,36 @@ Speech-based sentiment analysis plays a crucial role in understanding human emot
 
 #### Output1 - Exploratory data analysis(EDA)
 
-![image](https://github.com/user-attachments/assets/1a483bcb-bd2d-4a38-9b82-b1deafcdb705)
-![image](https://github.com/user-attachments/assets/98f7eecf-b6ef-4c29-937c-bea0f0a63178)
-![image](https://github.com/user-attachments/assets/10d2ac3c-cb77-4e29-9a39-e2b231ad3417)
+![image](https://github.com/user-attachments/assets/1a483bcb-bd2d-4a38-9b82-b1deafcdb705)  ![image](https://github.com/user-attachments/assets/98f7eecf-b6ef-4c29-937c-bea0f0a63178)  ![image](https://github.com/user-attachments/assets/10d2ac3c-cb77-4e29-9a39-e2b231ad3417)
 
 #### Output2 - VGG-16
 
-![image](https://github.com/user-attachments/assets/74330f9e-7ef0-4712-965c-f3057d3aa7c3)
-![image](https://github.com/user-attachments/assets/8b618611-7d4b-41c9-bc92-ac1c910d7a96)
+![image](https://github.com/user-attachments/assets/74330f9e-7ef0-4712-965c-f3057d3aa7c3)  ![image](https://github.com/user-attachments/assets/8b618611-7d4b-41c9-bc92-ac1c910d7a96)
 
 #### Output3 - ResNet-50
 
-![image](https://github.com/user-attachments/assets/bec23ea9-28be-4dc6-b6c1-45ae57733175)
-![image](https://github.com/user-attachments/assets/bc8f404a-c394-4773-b23d-ec3d73625879)
+![image](https://github.com/user-attachments/assets/bec23ea9-28be-4dc6-b6c1-45ae57733175)  ![image](https://github.com/user-attachments/assets/bc8f404a-c394-4773-b23d-ec3d73625879)
 
 #### Output4 - DenseNet-121
 
-![image](https://github.com/user-attachments/assets/e0b82282-1c4d-4239-8f88-44be09b086b7)
-![image](https://github.com/user-attachments/assets/367db19b-a77e-492d-9614-5160b19b5927)
+![image](https://github.com/user-attachments/assets/e0b82282-1c4d-4239-8f88-44be09b086b7)  ![image](https://github.com/user-attachments/assets/367db19b-a77e-492d-9614-5160b19b5927)
 
 #### Output5 - Xception
 
-![image](https://github.com/user-attachments/assets/62551753-166b-47ab-a043-b9b9222bdef3)
-![image](https://github.com/user-attachments/assets/7153a770-0531-4f9b-b599-01b08b5353fb)
+![image](https://github.com/user-attachments/assets/62551753-166b-47ab-a043-b9b9222bdef3)  ![image](https://github.com/user-attachments/assets/7153a770-0531-4f9b-b599-01b08b5353fb)
 
 #### Output6 - InceptionV3
 
-![image](https://github.com/user-attachments/assets/cd3014ae-6ac1-422d-a2ec-9a0a66a209c2)
-![image](https://github.com/user-attachments/assets/aea753ca-af6d-4ab7-a4d8-a8cd066f53fc)
+![image](https://github.com/user-attachments/assets/cd3014ae-6ac1-422d-a2ec-9a0a66a209c2)  ![image](https://github.com/user-attachments/assets/aea753ca-af6d-4ab7-a4d8-a8cd066f53fc)
 
 #### Output7 - CNN
 
-![image](https://github.com/user-attachments/assets/c30e5ace-c91d-4b27-a9c8-a79e8956bead)
-![image](https://github.com/user-attachments/assets/5466cbdc-729b-4194-8279-af814c21a7ed)
+![image](https://github.com/user-attachments/assets/c30e5ace-c91d-4b27-a9c8-a79e8956bead)  ![image](https://github.com/user-attachments/assets/5466cbdc-729b-4194-8279-af814c21a7ed)
 
 ## Results and Impact
 
-The Speech-Based Sentiment Analysis System enhances human-computer interaction by enabling machines to understand and respond to emotions in spoken language. This project leverages deep learning models to improve sentiment detection accuracy, making it a valuable tool for applications such as virtual assistants, customer service automation, and mental health monitoring.
-
-Among the models used, CNN performed exceptionally well, achieving the highest accuracy with minimal loss, making it the most effective choice for sentiment classification.This project serves as a foundation for future advancements in emotion AI, contributing to the development of more empathetic and context-aware artificial intelligence systems.
+The Speech-Based Sentiment Analysis System enhances human-computer interaction by enabling machines to understand and respond to emotions in spoken language. Among the models used, CNN performed exceptionally well, achieving the highest accuracy with minimal loss, making it the most effective choice for sentiment classification.
+This project serves as a foundation for future advancements in emotion AI, contributing to the development of more empathetic and context-aware artificial intelligence systems.
 
 ## Articles published / References
 
