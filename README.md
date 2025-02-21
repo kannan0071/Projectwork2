@@ -61,8 +61,9 @@ Speech-based sentiment analysis plays a crucial role in understanding human emot
 
 ## Results and Impact
 
-The Speech-Based Sentiment Analysis System enhances human-computer interaction by enabling machines to understand and respond to emotions in spoken language. Among the models used, CNN performed exceptionally well, achieving the highest accuracy with minimal loss, making it the most effective choice for sentiment classification.
-This project serves as a foundation for future advancements in emotion AI, contributing to the development of more empathetic and context-aware artificial intelligence systems.
+The Speech-Based Sentiment Analysis System enhances human-computer interaction by enabling machines to understand and respond to emotions in spoken language.
+
+Among the models used, CNN performed exceptionally well, achieving the highest accuracy with minimal loss, making it the most effective choice for sentiment classification.This project serves as a foundation for future advancements in emotion AI, contributing to the development of more empathetic and context-aware artificial intelligence systems.
 
 ## Articles published / References
 
