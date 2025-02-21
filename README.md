@@ -25,9 +25,8 @@ Speech-based sentiment analysis plays a crucial role in understanding human emot
 * Additional Dependencies: NumPy, Pandas, Matplotlib, scikit-learn for data preprocessing and visualization.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/user-attachments/assets/2ec56f99-cf60-43af-b45c-0677880e4d7a)
 
 ## Output
 
